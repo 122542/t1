@@ -1,2 +1,2 @@
 <?php
-echo 'nihao';sadfsdafsdaf
+echo 'nihao';sadfsdafsdaf测试使用的
